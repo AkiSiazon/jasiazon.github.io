@@ -2,11 +2,11 @@
 /*FONTS*/
 @font-face { 
 		font-family: CrimsonText-Regular;
-		src:url(Fonts/CrimsonText-Regular.ttf);
+		src:url(CrimsonText-Regular.ttf);
 	}
 @font-face { 
 		font-family: Montserrat-Light;
-		src:url(Fonts/Montserrat-Light.ttf);
+		src:url(Montserrat-Light.ttf);
 	}
 
 
@@ -131,7 +131,7 @@ li {
 	padding-left: 20px;
 	font-size: 16px;
 	transition: 0.5s ease all;
-    background-blend-mode:multiply;
+    	background-blend-mode:multiply;
 	font-family: Montserrat-Light, sans-serif;
 	border-top: 3px solid #1c1b1b;
 	
